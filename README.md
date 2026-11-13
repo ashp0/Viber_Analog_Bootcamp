@@ -13,6 +13,11 @@ One thing that surprised me was how common operational amplifiers are. ECG heart
 
 I’m looking forward to learning more and building with everyone!
 
+# Display
+Here is the circuit I built:
+<img width="2000" height="1328" alt="circuit" src="https://github.com/user-attachments/assets/4c052c16-afad-46b5-9c45-b2f0c5d58ca4" />
+
+
 # UWASIC Design Template
 
 A template for mixed-signal ASIC design using open-source tools, featuring automated workflows for digital, analog, and integration for TinyTapeout chip projects.
