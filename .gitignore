@@ -10,3 +10,6 @@ Thumbs.db
 .venv/
 .tools/
 .tmp/
+
+# Shared UW-ASIC AnalogLibrary clone (re-cloned by make CreateProject)
+analog/library/

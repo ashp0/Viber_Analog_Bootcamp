@@ -122,4 +122,4 @@ docker run $DOCKER_PLATFORM $DOCKER_SECURITY_OPT -it --rm \
     -v "$HOME/.cache/nix:/root/.cache/nix" \
     -v "$HOME/.volare:/root/.volare" \
     --name $CONTAINER_NAME \
-    $IMAGE_NAME nix-shell
+    $IMAGE_NAME nix-shell .flows/env/shell.nix
